@@ -34,7 +34,7 @@ Value	Meaning
 
 600   (rw-------) The owner may read and write a file. All others have no rights. A common setting for data files that the owner wants to keep private.
 
-Example :How to used in terminal:
+Example :-
   user :
   user@user:~$ sudo chmod -R 777 
   super user :
